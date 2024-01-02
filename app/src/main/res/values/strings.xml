@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News Aggregator</string>
+    <string name="welcome">Welcome to News Aggregator App</string>
+</resources>
